@@ -1,5 +1,5 @@
 # Tugas-Akhir-PBO
-Pemrograman Berorientasi Obyek (PBO) with Java (Aplikasi : 'Menu Burjo')
+Pemrograman Berorientasi Objek (PBO) with Java (Aplikasi : 'Menu Burjo')
 
 Anggota Kelompok :
 1. Muhammad Hafidz Febriansyah (L200190056)
